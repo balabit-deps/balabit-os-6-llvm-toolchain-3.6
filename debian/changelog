@@ -1,3 +1,9 @@
+llvm-toolchain-3.6 (1:3.6.2-3ubuntu2bb1) UNRELEASED; urgency=medium
+
+  * Balabit patched version
+
+ -- Balabit Platform Team <devnull@dev.null>  Mon, 07 Nov 2016 14:46:49 +0100
+
 llvm-toolchain-3.6 (1:3.6.2-3ubuntu2) xenial; urgency=medium
 
   * Do not link executables with a version script.
